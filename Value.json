@@ -1,0 +1,14 @@
+{
+  "FightTime": [7, 10],
+  "Tank": "lancer",
+  "Double CDR": false,
+  "AcceptableDelayingTime": 30000,
+  "BuffTime": {
+    "Ragnarok": [25000, 28500],
+    "Godsfall": 28500
+  },
+  "SkillProperties": {
+    "Titansbane": [184000, 13000],
+    "Godsfall": 185000
+  }
+}

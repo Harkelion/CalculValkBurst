@@ -1,0 +1,201 @@
+{
+  "skills": {
+    "1": {
+      "name": "Slash",
+      "damage": 0,
+      "ragnarokPoint": 0,
+      "cooldown": 0,
+      "castingTime": [1100, 1200, 1450, 1925],
+      "runemark": 0
+    },
+    "2": {
+      "name": "Overhead slash",
+      "damage": 0,
+      "ragnarokPoint": 0,
+      "cooldown": 12000,
+      "castingTime": 1900,
+      "runemark": 0
+    },
+    "3": {
+      "name": "Glaive Strike",
+      "damage": 0,
+      "ragnarokPoint": 5,
+      "cooldown": 13200,
+      "castingTime": 2450,
+      "runemark": 2
+    },
+    "4": {
+      "name": "Charge",
+      "damage": 0,
+      "ragnarokPoint": 0,
+      "cooldown": 0,
+      "castingTime": 0,
+      "runemark": 1
+    },
+    "5": {
+      "name": "Maelstrom",
+      "damage": 0,
+      "ragnarokPoint": 30,
+      "cooldown": 22000,
+      "castingTime": 3150,
+      "runemark": 6
+    },
+    "6": {
+      "name": "Leaping Slash",
+      "damage": 0,
+      "ragnarokPoint": 35,
+      "cooldown": 6600,
+      "castingTime": 1775,
+      "runemark": 1
+    },
+    "7": {
+      "name": "Spinning Death",
+      "damage": 0,
+      "ragnarokPoint": [5, 5, 15],
+      "cooldown": 13000,
+      "castingTime": [1775, 1775, 2300],
+      "runemark": 1
+    },
+    "8": {
+      "name": "Titansbane",
+      "damage": 0,
+      "ragnarokPoint": [400],
+      "cooldown": 195000,
+      "castingTime": [2000],
+      "runemark": 1
+    },
+    "9": {
+      "name": "Ground Bash",
+      "damage": 0,
+      "ragnarokPoint": 15,
+      "cooldown": 6000,
+      "castingTime": 1450,
+      "runemark": 1
+    },
+    "10": {
+      "name": "Dream Slash",
+      "damage": 0,
+      "ragnarokPoint": 5,
+      "cooldown": 8000,
+      "castingTime": 1775,
+      "runemark": 2
+    },
+    "11": {
+      "name": "Shining Crescent",
+      "damage": 0,
+      "ragnarokPoint": [30, 60],
+      "cooldown": 22000,
+      "castingTime": [2725, 2500],
+      "runemark": 2
+    },
+    "12": {
+      "name": "Ragnarok",
+      "damage": 0,
+      "ragnarokPoint": -1000,
+      "cooldown": 0,
+      "castingTime": 2800,
+      "runemark": 0
+    },
+    "13": {
+      "name": "Bloodflower",
+      "damage": 0,
+      "ragnarokPoint": 60,
+      "cooldown": 12000,
+      "castingTime": 1700,
+      "runemark": 1
+    },
+    "14": {
+      "name": "Evasion",
+      "damage": 0,
+      "ragnarokPoint": 0,
+      "cooldown": 0,
+      "castingTime": 825,
+      "runemark": 0
+    },
+    "15": {
+      "name": "Windslash",
+      "damage": 0,
+      "ragnarokPoint": 10,
+      "cooldown": 6000,
+      "castingTime": 1100,
+      "runemark": 0
+    },
+    "16": {
+      "name": "Runeburst",
+      "damage": 0,
+      "ragnarokPoint": 70,
+      "cooldown": 0,
+      "castingTime": 1325,
+      "runemark": 0
+    },
+    "17": {
+      "name": "Balder's Tears",
+      "damage": 0,
+      "ragnarokPoint": [
+        0, 67, 67, 67, 67, 67, 67, 67, 67, 67, 67, 67, 67, 67, 67, 67
+      ],
+      "cooldown": 0,
+      "castingTime": [
+        1075, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000,
+        1000, 1000, 1000, 1000, 1000
+      ],
+      "runemark": 0
+    },
+    "18": {
+      "name": "Retaliate",
+      "damage": 0,
+      "ragnarokPoint": 0,
+      "cooldown": 0,
+      "castingTime": 1630,
+      "runemark": 0
+    },
+    "19": {
+      "name": "Reclamation",
+      "damage": 0,
+      "ragnarokPoint": 20,
+      "cooldown": 12000,
+      "castingTime": 1525,
+      "runemark": 1
+    },
+    "20": {
+      "name": "Backstab",
+      "damage": 0,
+      "ragnarokPoint": 5,
+      "cooldown": 8000,
+      "castingTime": 1500,
+      "runemark": 0
+    },
+    "21": {
+      "name": "Dark Herald",
+      "damage": 0,
+      "ragnarokPoint": 0,
+      "cooldown": 0,
+      "castingTime": 925,
+      "runemark": 0
+    },
+    "23": {
+      "name": "Gungnir's Bite",
+      "damage": 0,
+      "ragnarokPoint": 20,
+      "cooldown": 5000,
+      "castingTime": 900,
+      "runemark": 1
+    },
+    "24": {
+      "name": "Twilight Waltz",
+      "damage": 0,
+      "ragnarokPoint": 35,
+      "cooldown": 40000,
+      "castingTime": [2050, 2050, 2760, 3850],
+      "runemark": 0
+    },
+    "25": {
+      "name": "Godsfall",
+      "damage": 0,
+      "ragnarokPoint": -1000,
+      "cooldown": 0,
+      "castingTime": [1060, 3720],
+      "runemark": 0
+    }
+  }
+}
